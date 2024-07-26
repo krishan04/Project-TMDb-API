@@ -1,14 +1,14 @@
-## Project-TMDb-API
+# Project-TMDb-API
 
-# Project Overview
+## Project Overview
 This project leverages the TMDb (The Movie Database) API to fetch and analyze information about movies, TV shows, and celebrities. The TMDb API provides a comprehensive source of data for entertainment purposes, allowing users to stay updated with the latest information in the entertainment sector.
 
-Motivation
+##Motivation
 The motivation behind using the TMDb API is to create a tool that can:
     1. Recommend TV shows, movies, and other entertainment content based on user preferences.
     2. Provide information about upcoming TV shows and movies.
     3. Identify the most popular and/or exclusive content at any given time.
-Notebook Structure
+##Notebook Structure
 The project is organized in a Jupyter Notebook format. The notebook contains a series of tasks, each designed to fetch and display specific data from the TMDb API. The tasks are as follows:
 
 TMDb 1.1: Find the ID of the movie "Andhadhun".
