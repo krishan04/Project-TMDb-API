@@ -40,5 +40,7 @@ TMDb 2.5: Check if James McAvoy was credited for his role in "Deadpool 2".
 TMDb 3.1: Fetch the overview of the TV show "FRIENDS".
 
 TMDb 3.2: Fetch the name and air date of S06E05 of "The Big Bang Theory".
+
 TMDb 3.3: Fetch the trending TV shows for the week and print the taglines of the top 5 shows.
+
 TMDb 3.5: Count the number of males and females in the cast of "Money Heist" using the TMDb API.
