@@ -1,6 +1,6 @@
-# -Project-TMDb-API
+## Project-TMDb-API
 
-Project Overview
+# Project Overview
 This project leverages the TMDb (The Movie Database) API to fetch and analyze information about movies, TV shows, and celebrities. The TMDb API provides a comprehensive source of data for entertainment purposes, allowing users to stay updated with the latest information in the entertainment sector.
 
 Motivation
