@@ -1,16 +1,15 @@
-#Project-TMDb-API
+# Project-TMDb-API
+
 Project Overview
  
 This project leverages the TMDb (The Movie Database) API to fetch and analyze information about movies, TV shows, and celebrities. The TMDb API provides a comprehensive source of data for entertainment purposes, allowing users to stay updated with the latest information in the entertainment sector.
 
 Motivation
-
-
 The motivation behind using the TMDb API is to create a tool that can:
 
-Recommend TV shows, movies, and other entertainment content based on user preferences.
-Provide information about upcoming TV shows and movies.
-Identify the most popular and/or exclusive content at any given time.
+    1. Recommend TV shows, movies, and other entertainment content based on user preferences.
+    2. Provide information about upcoming TV shows and movies.
+    3. Identify the most popular and/or exclusive content at any given time.
 
 
 
